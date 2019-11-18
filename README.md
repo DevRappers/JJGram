@@ -5,8 +5,8 @@ InstaGram Clone Project
 ## User Stories
 
 - [x] Create account : 계정생성
-- [ ] Request Secret : 비밀값 요청
-- [ ] Confirm Secret (Login) : 비밀값 확인(로그인)
+- [x] Request Secret : 비밀값 요청
+- [x] Confirm Secret (Login) : 비밀값 확인(로그인)
 - [ ] Like / Unlike a photo : 사진에 좋아요, 좋아요 취소 하기
 - [ ] Comment on a photo : 댓글 달기 
 - [ ] Search by user : user검색
