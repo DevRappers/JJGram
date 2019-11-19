@@ -16,7 +16,7 @@ InstaGram Clone Project
 - [x] Edit my profile : 프로필 정보 수정 
 - [x] See user profile : 사용자의 프로필 구경 
 - [x] See My Profile : 내 프로필 보기
-- [x] See the full photo : 사진을 크게 보기 
+- [x] See the full photo : 포스트의 상세정보 보기(댓글, 좋아요수)
 - [ ] Upload a photo : 사진 업로드
 - [ ] Edit the photo(Delete) : 사진 수정(삭제) 
 - [ ] See the feed : feed보기 
