@@ -15,8 +15,8 @@ InstaGram Clone Project
 - [x] Unfollow User : 언팔로우
 - [x] Edit my profile : 프로필 정보 수정 
 - [x] See user profile : 사용자의 프로필 구경 
-- [ ] See My Profile : 내 프로필 보기
-- [ ] See the full photo : 사진을 크게 보기 
+- [x] See My Profile : 내 프로필 보기
+- [x] See the full photo : 사진을 크게 보기 
 - [ ] Upload a photo : 사진 업로드
 - [ ] Edit the photo(Delete) : 사진 수정(삭제) 
 - [ ] See the feed : feed보기 
