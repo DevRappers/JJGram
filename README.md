@@ -9,8 +9,8 @@ InstaGram Clone Project
 - [x] Confirm Secret (Login) : 비밀값 확인(로그인)
 - [x] Like / Unlike a photo : 사진에 좋아요, 좋아요 취소 하기
 - [x] Comment on a photo : 댓글 달기 
-- [ ] Search by user : user검색
-- [ ] Search by location : 위치로 검색 
+- [x] Search by user : user검색
+- [x] Search by location : 위치로 검색 
 - [ ] See user profile : 사용자의 프로필 구경 
 - [ ] Follow / Unfollow User : 팔로우, 언팔로우 
 - [ ] See the full photo : 사진을 크게 보기 
