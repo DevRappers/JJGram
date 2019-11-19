@@ -19,5 +19,11 @@ export default {
                 posts
             }
         }
+    },
+    User: {
+        fullName: (parent) =>{
+            // 기본적으로 parent는 위에있는 resolver임.
+            return `${parent.firstName} ${parent.lastName}`
+        }
     }
 }
