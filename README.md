@@ -18,7 +18,7 @@ InstaGram Clone Project
 - [x] See My Profile : 내 프로필 보기
 - [x] See the full photo : 포스트의 상세정보 보기(댓글, 좋아요수)
 - [x] Upload a post : 포스트 업로드
-- [ ] Edit the post(Delete) : 포스트 수정(삭제) 
+- [x] Edit the post(Delete) : 포스트 수정(삭제) 
 - [ ] See the feed : feed보기 
 - [ ] See rooms : 내 채팅방들 보기
 - [ ] See room : 채팅방들어가기
