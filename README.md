@@ -7,8 +7,8 @@ InstaGram Clone Project
 - [x] Create account : 계정생성
 - [x] Request Secret : 비밀값 요청
 - [x] Confirm Secret (Login) : 비밀값 확인(로그인)
-- [ ] Like / Unlike a photo : 사진에 좋아요, 좋아요 취소 하기
-- [ ] Comment on a photo : 댓글 달기 
+- [x] Like / Unlike a photo : 사진에 좋아요, 좋아요 취소 하기
+- [x] Comment on a photo : 댓글 달기 
 - [ ] Search by user : user검색
 - [ ] Search by location : 위치로 검색 
 - [ ] See user profile : 사용자의 프로필 구경 
