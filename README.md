@@ -22,5 +22,5 @@ InstaGram Clone Project
 - [x] See the feed : feed보기 
 - [x] Send private DM : DM보내기
 - [x] See rooms : 내 채팅방들 보기
-- [ ] See room : 채팅방들어가기
+- [x] See room : 채팅방들어가기
 - [ ] Receive DM (Realtime) : DM받기(실시간)
