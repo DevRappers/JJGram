@@ -12,7 +12,7 @@ export default{
                             room: {id: roomId}        
                         }
                     }
-                ]});
+                ]}).node();
             },
             resolve: payload => payload
         }

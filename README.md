@@ -23,4 +23,4 @@ InstaGram Clone Project
 - [x] Send private DM : DM보내기
 - [x] See rooms : 내 채팅방들 보기
 - [x] See room : 채팅방들어가기
-- [ ] Receive DM (Realtime) : DM받기(실시간)
+- [x] Receive DM (Realtime) : DM받기(실시간)
