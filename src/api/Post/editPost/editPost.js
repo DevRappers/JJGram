@@ -24,7 +24,7 @@ export default {
                 }
             }
             else{
-                throw Error("You can`t do that");
+                throw Error("삭제실패");
             }
         }
     }

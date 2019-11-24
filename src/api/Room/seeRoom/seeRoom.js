@@ -16,7 +16,7 @@ export default {
             if(canSee){
                 return prisma.room({id});     
             }else{
-                throw Error("You can't see this");
+                throw Error("작업실패");
             }
         }
     }
