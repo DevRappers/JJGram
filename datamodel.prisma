@@ -1,6 +1,6 @@
 type User {
   id: ID! @id
-  avatar: String
+  avatar: String @default(value: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt6uh88PUrYZ3y4JJ2HuEuPT534d99bJvTcDEzvTT2h_VVcf2YSw&s")
   name: String! @unique
   email: String! @unique
   firstName: String @default(value: "")
