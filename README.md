@@ -1,6 +1,11 @@
 # JJGram
 
-InstaGram Clone Project
+GraphQL + Prisma + Node.js + express 를 활용해 만든 인스타그램 클론 백앤드
+
+## 프로젝트 실행 방법
+1. git clone project
+2. npm install
+3. yarn dev
 
 ## User Stories
 

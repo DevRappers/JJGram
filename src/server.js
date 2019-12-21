@@ -6,6 +6,7 @@ import schema from './schema';
 import './passport';
 import { authenticateJwt } from './passport';
 import { isAuthenticated } from './middlewares';
+import { uploadMiddleware, uploadController } from './upload';
 
 // env에 PORT가 지정되어 있지 않다면 4000번으로 설정
 const PORT = process.env.PORT || 4000;
@@ -18,5 +19,6 @@ const server = new GraphQLServer({
 // graphqlyoga에 express가 있어 express서버에 접근 가능함.
 server.express.use(logger('dev'));
 server.express.use(authenticateJwt);
+server.express.post('/api/upload', uploadMiddleware, uploadController);
 
 server.start({ port: PORT }, () => console.log(`Server running on http://localhost:${PORT}`));

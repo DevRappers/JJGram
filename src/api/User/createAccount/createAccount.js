@@ -7,7 +7,7 @@ export default {
 			const exists = await prisma.$exists.user({
 				OR: [
 					{
-						username
+						name
 					},
 					{ email }
 				]
